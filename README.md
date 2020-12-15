@@ -6,14 +6,16 @@ You can see [my socials here](https://linktr.ee/paced)!
 
 ## Skills
 
-<img src="icons/python.png" style="max-height: 32px; padding: 0.5em" />
-<img src="icons/typescript.png" style="max-height: 32px; padding: 0.5em" />
-<img src="icons/javascript.png" style="max-height: 32px; padding: 0.5em" />
-<img src="icons/clang.png" style="max-height: 32px; padding: 0.5em" />
-<img src="icons/java.png" style="max-height: 32px; padding: 0.5em" />
-<img src="icons/rust.png" style="max-height: 32px; padding: 0.5em" />
-<img src="icons/devops.png" style="max-height: 32px; padding: 0.5em" />
-<img src="icons/gcp.png" style="max-height: 32px; padding: 0.5em" />
+<p float="left">
+  <img src="icons/python.png" height="32px" />
+  <img src="icons/typescript.png" height="32px" />
+  <img src="icons/javascript.png" height="32px" />
+  <img src="icons/clang.png" height="32px" />
+  <img src="icons/java.png" height="32px" />
+  <img src="icons/rust.png" height="32px" />
+  <img src="icons/devops.png" height="32px" />
+  <img src="icons/gcp.png" height="32px" />
+</p>
 
 When it comes to languages and frameworks:
 
@@ -54,3 +56,5 @@ My favourite fruits are Fuji apples, I love making coffee, and my favourite colo
 ## Credits
 
 - PFP drawn by [@FiveClawD](https://twitter.com/FiveClawD).
+
+[python-logo]: 
