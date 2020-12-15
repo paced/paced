@@ -1,7 +1,5 @@
 > Call me Tian Hao (Thomas) Wang!
 
-I'm a software engineer from Melbourne. Pleased to meet you!
-
 <p float="left">
   <a href="https://linktr.ee/paced/" target="_blank">
     <img src="icons/linktree.png" height="32px" />
@@ -14,11 +12,13 @@ I'm a software engineer from Melbourne. Pleased to meet you!
   <a href="https://twitter.com/__paced__" target="_blank">
     <img src="icons/twitter.png" height="32px" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/tianhao-wang/" target="_blank">
     <img src="icons/linkedin.png" height="32px" />
   </a>
 </p>
+
+I'm a software engineer from Melbourne. Pleased to meet you!
 
 ## About Me
 
