@@ -1,5 +1,3 @@
-> Call me Tian Hao (Thomas) Wang!
-
 <p float="left">
   <a href="https://linktr.ee/paced/" target="_blank">
     <img src="icons/linktree.png" height="32px" />
