@@ -32,7 +32,7 @@ When it comes to other technical skills:
 
 ## About Me
 
-My greatest passion in life is "making stuff", no matter what that "stufF" is.
+My greatest passion in life is "making stuff", no matter what that "stuff" is.
 
 - I'm a musician (vocalist, guitarist, pianist) and producer/composer!
 - I'm a writer and editor with a focus on interactive media.
