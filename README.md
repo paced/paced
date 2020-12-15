@@ -1,6 +1,6 @@
-# Tian Hao (Thomas) Wang
+> Call me Tian Hao (Thomas) Wang!
 
-I'm Thomas, a software engineer from Melbourne. Pleased to meet you!
+I'm a software engineer from Melbourne. Pleased to meet you!
 
 You can see [my socials here](https://linktr.ee/paced)!
 
