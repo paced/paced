@@ -1,8 +1,19 @@
 # G'day, Team
 
-I'm Thomas, a software engineer from Melbourne. You can see [my socials here](https://linktr.ee/paced).
+I'm Thomas, a software engineer from Melbourne.
+
+You can see [my socials here](https://linktr.ee/paced)!
 
 ## Skills
+
+<img src="icons/python.png" style="max-height: 32px; padding: 0.5em" />
+<img src="icons/typescript.png" style="max-height: 32px; padding: 0.5em" />
+<img src="icons/javascript.png" style="max-height: 32px; padding: 0.5em" />
+<img src="icons/clang.png" style="max-height: 32px; padding: 0.5em" />
+<img src="icons/java.png" style="max-height: 32px; padding: 0.5em" />
+<img src="icons/rust.png" style="max-height: 32px; padding: 0.5em" />
+<img src="icons/devops.png" style="max-height: 32px; padding: 0.5em" />
+<img src="icons/gcp.png" style="max-height: 32px; padding: 0.5em" />
 
 When it comes to languages and frameworks:
 
