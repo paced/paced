@@ -56,5 +56,3 @@ My favourite fruits are Fuji apples, I love making coffee, and my favourite colo
 ## Credits
 
 - PFP drawn by [@FiveClawD](https://twitter.com/FiveClawD).
-
-[python-logo]: 
