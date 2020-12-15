@@ -2,56 +2,72 @@
 
 I'm a software engineer from Melbourne. Pleased to meet you!
 
-You can see [my socials here](https://linktr.ee/paced)!
+<p float="left">
+  <a href="https://linktr.ee/paced/" target="_blank">
+    <img src="icons/linktree.png" height="32px" />
+  </a>
+
+  <a href="https://github.com/paced" target="_blank">
+    <img src="icons/github.png" height="32px" />
+  </a>
+
+  <a href="https://twitter.com/__paced__" target="_blank">
+    <img src="icons/twitter.png" height="32px" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/tianhao-wang/" target="_blank">
+    <img src="icons/linkedin.png" height="32px" />
+  </a>
+</p>
+
+## About Me
+
+My greatest passion in life is "making stuff", no matter what the "stuff" is.
+
+- I'm a 🎶 musician (🎤🎸🎹) and composer!
+- I'm a 🖋 writer and editor with a focus on 🎮 interactive media.
+- I enjoy robotics, software prototyping, and startup side projects.
+
+My favourite fruits are 🍎 Fuji apples, I love making ☕ coffee, and my favourite colour is 🌸 magenta.
 
 ## Skills
+
+I was raised by...
+
+<p float="left">
+  <img src="icons/python.png" height="32px" />
+  <img src="icons/clang.png" height="32px" />
+  <img src="icons/java.png" height="32px" />
+</p>
+
+...but day-to-day, I'm very comfortable with:
 
 <p float="left">
   <img src="icons/python.png" height="32px" />
   <img src="icons/typescript.png" height="32px" />
   <img src="icons/javascript.png" height="32px" />
-  <img src="icons/clang.png" height="32px" />
-  <img src="icons/java.png" height="32px" />
-  <img src="icons/rust.png" height="32px" />
   <img src="icons/devops.png" height="32px" />
   <img src="icons/gcp.png" height="32px" />
 </p>
 
-When it comes to languages and frameworks:
+...and I'm happily learning:
 
-- My most proficient tool is Python (3.8+).
-  - Django, Flask, and so on.
-- I was raised on C and Java and am very familiar with both.
-- I'm currently learning Rust.
-  - Loving it so far!
-- I'm very comfortable with TypeScript (and JavaScript).
+<p float="left">
+  <img src="icons/rust.png" height="32px" />
+</p>
 
-When it comes to other technical skills:
+More keywords!
 
-- I have always worked in some kind of DevOps or DevOps-adjacent role.
-- I'm familiar with GCP, AWS, and cloud services/products at-scale.
-- I have knowledge of full-stack and end-to-end product deployment.
-- I'm very familiar with SQL and relational databases.
-  - ...and opinionated on when to use/not use them.
-- I've got a background in algorithms and data structures.
-- I consider myself proficient with UX design and accessibility.
+- GCP, AWS, and cloud services/products at-scale.
+- Full-stack and end-to-end product deployment.
+- Algorithms and data structures.
+- UX design and accessibility.
 
-...and transverse skills:
+Non-technical keywords!
 
-- I enjoy and am familiar with prototyping/design thinking.
-- I'm a presenter and love to give lectures on topics I'm passionate about!
-- I've done some product management and performed technical leadership for small teams.
-- I worked as a tutor for people new to tech for many years, on-and-off.
-
-## About Me
-
-My greatest passion in life is "making stuff", no matter what that "stuff" is.
-
-- I'm a musician (vocalist, guitarist, pianist) and producer/composer!
-- I'm a writer and editor with a focus on interactive media.
-- I enjoy robotics, software prototyping, and startup side projects.
-
-My favourite fruits are Fuji apples, I love making coffee, and my favourite colour is magenta.
+- Prototyping and design thinking.
+- Presenter and tutor.
+- Product management/technical leadership for small teams.
 
 ## Credits
 
