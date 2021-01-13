@@ -30,7 +30,7 @@ My favourite fruits are 🍎 Fuji apples, I love making ☕ coffee, and my favou
 
 ## Skills
 
-I was raised by...
+I was raised with...
 
 <p float="left">
   <img src="icons/python.png" height="32px" />
@@ -38,14 +38,12 @@ I was raised by...
   <img src="icons/java.png" height="32px" />
 </p>
 
-...but day-to-day, I'm very comfortable with:
+...but day-to-day, I'm work with:
 
 <p float="left">
   <img src="icons/python.png" height="32px" />
   <img src="icons/typescript.png" height="32px" />
   <img src="icons/javascript.png" height="32px" />
-  <img src="icons/devops.png" height="32px" />
-  <img src="icons/gcp.png" height="32px" />
 </p>
 
 ...and I'm happily learning:
@@ -63,7 +61,6 @@ More keywords!
 
 Non-technical keywords!
 
-- Prototyping and design thinking.
 - Presenter and tutor.
 - Product management/technical leadership for small teams.
 
