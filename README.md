@@ -7,5 +7,3 @@
     <img src="icons/linkedin.png" height="32px" />
   </a>
 </p>
-
-_PFP drawn by [@FiveClawD](https://twitter.com/FiveClawD) (on Twitter)._
