@@ -1,14 +1,6 @@
 <p float="left">
-  <a href="https://linktr.ee/paced/" target="_blank">
-    <img src="icons/linktree.png" height="32px" />
-  </a>
-
   <a href="https://github.com/paced" target="_blank">
     <img src="icons/github.png" height="32px" />
-  </a>
-
-  <a href="https://twitter.com/__paced__" target="_blank">
-    <img src="icons/twitter.png" height="32px" />
   </a>
 
   <a href="https://www.linkedin.com/in/tianhao-wang/" target="_blank">
