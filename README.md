@@ -10,5 +10,12 @@ I'm a software engineer and musician from Melbourne. Here are some links:
   </a>
 </p>
 
-I'm primarily interested in usability, human-machine interactivity, interactive media,
-automation, information security, graphics, and systems architecture.
+I'm primarily interested in:
+
+- usability
+- human-machine interaction
+- interactive media
+- automation
+- information security
+- graphics
+- systems architecture
