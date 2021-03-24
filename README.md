@@ -1,4 +1,4 @@
-# Thomas (Tian Hao) Wang
+> Thomas (Tian Hao) Wang
 
 I'm a software engineer and musician from Melbourne. Here are some links:
 
