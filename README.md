@@ -12,12 +12,17 @@ I'm a software engineer and musician from Melbourne. Here are some links:
   </a>
 </p>
 
-I'm primarily interested in:
+My main passions in technology are usability/accessibility design, interactivity,
+and creative and enabling advancements in technology.
 
-- usability
-- human-machine interaction
-- interactive media
-- automation
-- information security
-- graphics
-- systems architecture
+I'm also very interested in:
+
+- 🎮 interactive art
+- 🕵️ security
+- 🌉 system architecture
+
+Outside of tech and my day-to-day, I'm interested in:
+
+- 📝 writing
+- 🎵 writing music
+- 🎸 playing music
