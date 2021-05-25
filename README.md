@@ -12,8 +12,11 @@ I'm a software engineer and musician from Melbourne. Here are some links:
   </a>
 </p>
 
-My main passions in technology are usability/accessibility design, interactivity,
-and creative and enabling advancements in technology.
+My main passions in technology are:
+
+- 👓 Usability and accessibility in design
+- 🤝 Interactivity
+- 🎹 Creativity and innovation
 
 I'm also very interested in:
 
