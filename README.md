@@ -1,6 +1,6 @@
 > Thomas (Tian Hao) Wang
 
-I'm a software engineer and musician from Melbourne. Here are some links:
+I'm a software engineer and musician/composer from Melbourne. Here are some links:
 
 <p float="left">
   <a href="https://github.com/paced" target="_blank">
