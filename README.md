@@ -1,6 +1,6 @@
 > Thomas (Tian Hao) Wang
 
-I'm a software engineer and musician/composer from Melbourne. Here are some links:
+I'm a software engineer (Sr. SDE @ 99designs), musician, and composer from Melbourne.
 
 <p float="left">
   <a href="https://github.com/paced" target="_blank">
@@ -12,20 +12,10 @@ I'm a software engineer and musician/composer from Melbourne. Here are some link
   </a>
 </p>
 
-My main passions in technology are:
+I focus on:
 
-- 👓 Usability and accessibility in design
-- 🤝 Interactivity
-- 🎹 Creativity and innovation
-
-I'm also very interested in:
-
-- 🎮 interactive art
-- 🕵️ security
-- 🌉 system architecture
-
-Outside of tech and my day-to-day, I'm interested in:
-
-- 📝 writing
-- 🎵 writing music
-- 🎸 playing music
+- 👓 Usability and interactivity of user interfaces
+- 💻 Systems engineering and software architecture
+- 🎹 Creativity, innovation, and prototyping
+- 🔐 Information security (especially pentesting)
+- 📄 Improving developer and user experiences
