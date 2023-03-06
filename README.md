@@ -1,6 +1,6 @@
 > Thomas (Tian Hao) Wang
 
-I'm a software engineer (Sr. SDE @ 99designs), musician, and composer from Melbourne.
+I'm a software engineer (Sr. SDE @ 99designs), composer, and writer from Melbourne.
 
 <p float="left">
   <a href="https://github.com/paced" target="_blank">
