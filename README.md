@@ -14,7 +14,7 @@ I'm a software engineer (Sr. SDE @ 99designs), composer, and writer from Melbour
 
 I focus on:
 
-- 👓 Usability and interactivity of user interfaces
+- 👓 Prototyping and polishing beautiful user interfaces
 - 💻 Systems engineering and software architecture
 - 🎹 Creativity, innovation, and prototyping
 - 🔐 Information security (especially pentesting)
