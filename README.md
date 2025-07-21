@@ -1,6 +1,8 @@
 > Thomas (Tian Hao) Wang
 
-I'm a software engineer (Sr. SDE @ 99designs), composer, and writer from Melbourne.
+Senior Software Engineer @99designs/Vistaprint, co-owner of the Inkling
+Interactive worker-owned co-op, musician, composer, and writer from Melbourne,
+Australia!
 
 <p float="left">
   <a href="https://github.com/paced" target="_blank">
