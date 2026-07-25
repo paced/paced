@@ -1,8 +1,6 @@
 > Thomas (Tian Hao) Wang
 
-- Senior Software Engineer @99designs/Vistaprint
-- Co-owner of the Inkling Interactive worker-owned co-op
-- Otherwise: a musician, composer, and writer from Melbourne, Australia!
+A software engineer, musician, and composer from Melbourne, Australia!
 
 <p float="left">
   <a href="https://github.com/paced" target="_blank">
